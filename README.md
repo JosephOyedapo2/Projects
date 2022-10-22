@@ -1,1 +1,1 @@
-Final Project for 375:Intro in Algorithms
+Compilation of all prominent work done at Binghamton University
