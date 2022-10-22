@@ -1,0 +1,8 @@
+delete 1234
+delete 1234
+insert 4321 MyName Password123
+search 4321
+delete 4321
+search 4321
+insert 0001 FirstName McLastName
+insert 0000 Zero 0000

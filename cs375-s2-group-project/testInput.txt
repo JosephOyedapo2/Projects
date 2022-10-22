@@ -1,0 +1,8 @@
+insert 0000 me pswd
+insert 0383 you pswd
+insert 0766 us pswd
+search 0000
+search 0001
+search 0766
+delete 0000
+search 0766
